@@ -1,0 +1,16 @@
+body{
+    background: turquoise;
+    /*background-image: url(https://robotesfera.com/wp-content/uploads/2019/02/que-es-la-domotica-696x321.jpg);*/
+    background-image: url('https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/08/16141707/Tech-1-Sebasti%C3%A1n-Aued-Domotica-y-casas-inteligentes.jpg');
+}
+h1,p{
+    color: black;
+    text-align: center;
+    text-justify: auto;
+    font: bold;
+}
+a{
+    font: bold;
+    text-align: center;
+    
+}
